@@ -1,2 +1,2 @@
 # Readme
-A website that built by python
+It is a website that is built by python.
